@@ -1,6 +1,7 @@
-# ga
+# GA.cr
 
-TODO: Write a description here
+Simple Genetic Algorithm in Crystal,
+Based on [Nature of Code](http://natureofcode.com/)
 
 ## Installation
 
@@ -20,7 +21,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/ga/fork )
+1. Fork it ( https://github.com/marciogm/ga.cr/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -28,4 +29,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) marciogm - creator, maintainer
+- [[marciogm]](https://github.com/marciogm) marciogm - creator, maintainer
